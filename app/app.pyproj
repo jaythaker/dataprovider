@@ -1,0 +1,71 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>c07b1bb8-6929-4a6c-ab7f-db0f02fd5d89</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>__main__.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>app</Name>
+    <RootNamespace>data.providers.app</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
+    <InterpreterId>Global|PythonCore|3.13</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="gateways\containers.py" />
+    <Compile Include="gateways\__init__.py" />
+    <Compile Include="models\__init__.py" />
+    <Compile Include="services\AuthenticationService.py" />
+    <Compile Include="services\containers.py" />
+    <Compile Include="services\__init__.py" />
+    <Compile Include="__main__.py" />
+    <Compile Include="configuration\containers.py" />
+    <Compile Include="configuration\__init__.py" />
+    <Compile Include="containers.py" />
+    <Compile Include="mapper\containers.py" />
+    <Compile Include="mapper\__init__.py" />
+    <Compile Include="dataproviders\containers.py" />
+    <Compile Include="dataproviders\__init__.py" />
+    <Compile Include="client\containers.py" />
+    <Compile Include="client\communicator.py" />
+    <Compile Include="client\exceptions.py" />
+    <Compile Include="client\__init__.py" />
+    <Compile Include="__init__.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="client\" />
+    <Folder Include="mapper\" />
+    <Folder Include="configuration\" />
+    <Folder Include="dataproviders\" />
+    <Folder Include="dataproviders\td\" />
+    <Folder Include="models\" />
+    <Folder Include="gateways\" />
+    <Folder Include="services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.13" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="models\servicemodels.py" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

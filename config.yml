@@ -1,0 +1,22 @@
+core:
+
+  logging:
+    version: 1
+    formatters:
+      formatter:
+        format: "[%(asctime)s] [%(levelname)s] [%(name)s]: %(message)s"
+    handlers:
+      console:
+        class: "logging.StreamHandler"
+        level: "INFO"
+        formatter: "formatter"
+        stream: "ext://sys.stderr"
+    root:
+      level: "INFO"
+      handlers: ["console"]
+
+client:
+
+  settings:
+    baseAddress: "http://localhost:8000"
+    timeout: 30

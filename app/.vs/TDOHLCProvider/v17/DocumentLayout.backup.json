@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\learnings\\TDOHLCProvider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|C:\\projects\\learnings\\TDOHLCProvider\\client\\communicator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|solutionrelative:client\\communicator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|C:\\projects\\learnings\\TDOHLCProvider\\Client\\Models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|solutionrelative:Client\\Models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|C:\\projects\\learnings\\TDOHLCProvider\\Client\\Exceptions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|solutionrelative:Client\\Exceptions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|C:\\projects\\learnings\\TDOHLCProvider\\Client\\Container.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|solutionrelative:Client\\Container.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|C:\\projects\\learnings\\TDOHLCProvider\\Client\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|solutionrelative:Client\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|C:\\projects\\learnings\\TDOHLCProvider\\providers\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|solutionrelative:providers\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|C:\\projects\\learnings\\TDOHLCProvider\\TDOHLCProvider.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C07B1BB8-6929-4A6C-AB7F-DB0F02FD5D89}|TDOHLCProvider.pyproj|solutionrelative:TDOHLCProvider.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "container.py",
+              "DocumentMoniker": "C:\\projects\\learnings\\TDOHLCProvider\\Client\\Container.py",
+              "RelativeDocumentMoniker": "Client\\Container.py",
+              "ToolTip": "C:\\projects\\learnings\\TDOHLCProvider\\Client\\Container.py",
+              "RelativeToolTip": "Client\\Container.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-10T03:49:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\projects\\learnings\\TDOHLCProvider\\Client\\Models.py",
+              "RelativeDocumentMoniker": "Client\\Models.py",
+              "ToolTip": "C:\\projects\\learnings\\TDOHLCProvider\\Client\\Models.py",
+              "RelativeToolTip": "Client\\Models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-10T01:24:39.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exceptions.py",
+              "DocumentMoniker": "C:\\projects\\learnings\\TDOHLCProvider\\Client\\Exceptions.py",
+              "RelativeDocumentMoniker": "Client\\Exceptions.py",
+              "ToolTip": "C:\\projects\\learnings\\TDOHLCProvider\\Client\\Exceptions.py",
+              "RelativeToolTip": "Client\\Exceptions.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-10T01:20:08.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "communicator.py",
+              "DocumentMoniker": "C:\\projects\\learnings\\TDOHLCProvider\\client\\communicator.py",
+              "RelativeDocumentMoniker": "client\\communicator.py",
+              "ToolTip": "C:\\projects\\learnings\\TDOHLCProvider\\client\\communicator.py",
+              "RelativeToolTip": "client\\communicator.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-10T00:33:25.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "__init__.py (client)",
+              "DocumentMoniker": "C:\\projects\\learnings\\TDOHLCProvider\\Client\\__init__.py",
+              "RelativeDocumentMoniker": "Client\\__init__.py",
+              "ToolTip": "C:\\projects\\learnings\\TDOHLCProvider\\Client\\__init__.py",
+              "RelativeToolTip": "Client\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-10T00:31:39.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "__init__.py (providers)",
+              "DocumentMoniker": "C:\\projects\\learnings\\TDOHLCProvider\\providers\\__init__.py",
+              "RelativeDocumentMoniker": "providers\\__init__.py",
+              "ToolTip": "C:\\projects\\learnings\\TDOHLCProvider\\providers\\__init__.py",
+              "RelativeToolTip": "providers\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-10T00:30:23.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TDOHLCProvider.py",
+              "DocumentMoniker": "C:\\projects\\learnings\\TDOHLCProvider\\TDOHLCProvider.py",
+              "RelativeDocumentMoniker": "TDOHLCProvider.py",
+              "ToolTip": "C:\\projects\\learnings\\TDOHLCProvider\\TDOHLCProvider.py",
+              "RelativeToolTip": "TDOHLCProvider.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-10T00:27:10.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
